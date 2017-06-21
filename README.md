@@ -1,2 +1,3 @@
 # hello-world
 Tutorial
+Learning all the things! html, CSS, jQuery, JavaScript, GitHub...
